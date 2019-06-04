@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  common.cpp
+  OpenCVApplication.cpp
+c:\users\timi\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(146): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\timi\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(268): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\timi\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(387): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\timi\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(508): warning C4804: '%': unsafe use of type 'bool' in operation
+c:\users\timi\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(545): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  OpenCVApplication.vcxproj -> C:\Users\Timi\Desktop\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
